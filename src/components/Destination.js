@@ -19,7 +19,7 @@ const Destination = () => {
         className="first-reverse"
         heading ="2 - Half Moon Beach"
         text="Half Moon Beach is one of the most prominent tourist attractions in the eastern region of Saudi Arabia, whose coast is the longest in the Gulf region, with an estimated length of about 700 km."
-        img1="https://scontent.fdmm2-4.fna.fbcdn.net/v/t39.30808-6/237024046_4305776309501608_1824409074054876075_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=fZxhUTVyLEcAX9qSRv9&_nc_ht=scontent.fdmm2-4.fna&oh=00_AfBmkrvkXnG9PoT02S8rdXT9rfSzg8Vxsi3foyFkzxXupw&oe=6420E676"
+        img1="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/93/4c/a7/half-moon-beach.jpg?w=2000&h=-1&s=1"
         img2="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/09/dd/ff/half-moon-beach.jpg?w=600&h=-1&s=1"
         
         />
@@ -52,8 +52,8 @@ const Destination = () => {
         className="first-reverse"
         heading ="6 -  Escape The Room "
         text="Catering to the adventure enthusiasts, Escape The Room is a new concept in Saudi Arabia. In the activity, a small group of people has to solve the clues provided in a confined room and try to escape the room in 60 minutes."
-        img1="https://scontent.fdmm2-3.fna.fbcdn.net/v/t31.18172-8/20748311_1914201038847588_1262379547178884913_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=rfeoVtEcaa4AX_gT71S&_nc_ht=scontent.fdmm2-3.fna&oh=00_AfCh3Jqs3SZLs-YA3rI7qgxs9ui2oRFtvzJ6_uLvqjPW2A&oe=64455FA8"
-        img2="https://scontent.fdmm2-4.fna.fbcdn.net/v/t31.18172-8/20861538_1914201122180913_916669527558911795_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=FGadEry7tEYAX8ZALau&_nc_ht=scontent.fdmm2-4.fna&oh=00_AfCMRfcnZuFBsqy-HqkdwLQ2FJoUyp71rHmumtOXZ6rpXQ&oe=6445636E"
+        img1="https://fastly.4sqi.net/img/general/width960/73999409_HwmmJAIzuo-FpmTXxgcTStS80hcBgxopD7FtgakMN38.jpg"
+        img2="https://fastly.4sqi.net/img/general/width960/1386691445_XpLxmceTrisdByZ3YHNa22gfs7U8mckM3nGOjiQH7xo.jpg"
         
         />
     </div>
